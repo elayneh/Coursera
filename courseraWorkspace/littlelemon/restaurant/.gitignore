@@ -5,7 +5,7 @@ __pycache__/
 *.pyc
 
 # Ignore the Django settings file
-myproject/settings.py
+littlelemon/settings.py
 
 # Ignore the virtual environment directory
 venv/
@@ -14,7 +14,7 @@ venv/
 db.sqlite3
 
 # Ignore local settings file
-myproject/local_settings.py
+littlelemon/local_settings.py
 
 # Ignore media files
 media/
